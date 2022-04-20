@@ -25,7 +25,7 @@ func main() {
 		tools    string = "Tool 1, tool 2" // coklu atama var parantezi ile
 	)
 
-	var isMarried, weight, height = true, 80, 190 // coklu atama
+	var isMarried, weight, height = false, 80, 190 // coklu atama
 	// or
 	// isMarried, weight, height := true, 80, 190 // birden cok değişkene değer ataması.
 
