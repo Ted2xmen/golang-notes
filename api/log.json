@@ -1,0 +1,12 @@
+{
+  "client_ip": "127.0.0.1",
+  "error": "",
+  "latency": 530000,
+  "method": "GET",
+  "path": "/albums",
+  "proto": "HTTP/1.1",
+  "status": 200,
+  "time": "Sat, 16 Mar 2024 17:36:34 +03",
+  "user_agent": "Thunder Client (https://www.thunderclient.com)"
+}
+{"client_ip":"127.0.0.1","error":"","latency":42625,"method":"GET","path":"/albums","proto":"HTTP/1.1","status":200,"time":"Sat, 16 Mar 2024 17:36:41 +03","user_agent":"Thunder Client (https://www.thunderclient.com)"}
